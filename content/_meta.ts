@@ -8,7 +8,7 @@ export default {
   'valid-getting-started': 'Valid - Getting Started',
   'api-reference': {
     title: 'CUSTOM TITLE',
-    type: 'oops i goofed here',
+    type: 'page',
     href: '/api-docs/valid-jolli-api-json'
   }
 }
