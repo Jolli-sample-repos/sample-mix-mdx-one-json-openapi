@@ -7,7 +7,7 @@ export default {
   'valid-configuration-guide': 'Valid - Configuration Guide',
   'valid-getting-started': 'Valid - Getting Started',
   'api-reference': {
-    title: 'API Reference',
+    title: 'CHANGE TITLE',
     type: 'page',
     href: '/api-docs/valid-jolli-api-json'
   }
